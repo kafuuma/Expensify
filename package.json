@@ -20,7 +20,7 @@
     "enzyme-to-json": "^3.4.3",
     "firebase": "^7.5.0",
     "jest": "^24.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.0",
     "normalize.css": "^8.0.1",
     "numeral": "^2.0.6",
